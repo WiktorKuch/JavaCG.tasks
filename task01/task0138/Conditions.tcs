@@ -1,0 +1,13 @@
+taskKey="pl.codegym.task.task01.task0138"\n\nUlubiony wiersz
+
+W metodzie main napisz kod, kt&oacute;ry sprawi, że program wyświetli Tw&oacute;j ulubiony wiersz.
+Wiersz powinien mieć co najmniej 4 linie. Nie usuwaj linii wyświetlającej tekst &bdquo;M&oacute;j ulubiony wiersz:&rdquo;.
+
+
+Требования:
+1.	Program powinien wyświetlać tekst.
+2.	Linia &bdquo;M&oacute;j ulubiony wiersz:&rdquo; powinna być wyświetlona przed wierszem.
+3.	Wyświetlany tekst powinien składać się z co najmniej pięciu linii (puste linie r&oacute;wnież liczą się jako linia).
+4.	Wyświetlany tekst musi mieć co najmniej 50 znak&oacute;w.
+
+

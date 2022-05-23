@@ -1,0 +1,16 @@
+taskKey="pl.codegym.task.task02.task0216"\n\nNajmniejsza z trzech liczb
+
+Napisz funkcję, kt&oacute;ra wybiera najmniejszą z trzech liczb.
+
+Wskaz&oacute;wka:
+Musisz napisać ciało istniejącej funkcji min.
+
+
+Требования:
+1.	Program powinien wyświetlać tekst na ekranie.
+2.	Metoda min nie powinna wyświetlać tekstu na ekranie.
+3.	Metoda main powinna wywoływać metodę min cztery razy.
+4.	Metoda main powinna wyświetlać wynik działania metody min. Za każdym razem w nowej linii.
+5.	Metoda min musi zwracać najmniejszą spośr&oacute;d liczb a, b i c.
+
+
